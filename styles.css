@@ -1,0 +1,25 @@
+#wrap {
+    width: 960px;
+    color:seashell;
+    background-color: #3f3254;
+}
+a {
+    color: seashell;
+}
+#header{
+    margin-bottom: 10px;
+    padding:5px 20px;
+}
+.main {
+    text-align: center;
+}
+img {
+    max-width: 90%;
+    max-height: 90%;
+}
+#footer {
+    margin: 0;
+    padding: 10px 20px;
+    border-top: 2px solid seashell;
+    text-align: center;
+}
