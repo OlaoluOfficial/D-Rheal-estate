@@ -3,17 +3,12 @@
     background-color: #3f3254;
     margin: 0;
     padding: 0;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', 'open sans',  'Droid Sans', 'Rocky';
+    font-weight: normal;
 }
-
-/*
-.alegreya {
-    font-family: 'Alegreya', serif;
+#header {
+    font-weight: 700;
 }
-.cormorant {
-    font-family: 'Cormorant Infant', serif;
-}
-*/
 #media i {
     padding: 0 10px;
 }
